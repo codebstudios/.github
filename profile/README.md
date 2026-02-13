@@ -1,53 +1,57 @@
-<h1 align="center">Codebyte Studios</h1>
+<h1 align="center">OTG Modding</h1>
 
 <p align="center">
-  <strong>Community-driven game and web development studio</strong>
+  <strong>Premium Mods • Scripts • Maps for Modern Games</strong>
 </p>
 
-<p align="center">
-  <a href="https://codebyte.studio" target="_blank">🌐 Website</a> • 
-  <a href="https://discord.gg/yEwUUnP5bK" target="_blank">💬 Discord</a> • 
-  <a href="https://github.com/cbytestudios" target="_blank">🐙 GitHub</a>
-</p>
 
 ---
 
-## 🚀 About Codebyte Studios
+## 🚀 About OTG Modding
 
-**Codebyte Studios** is a passionate, community-driven studio specializing in scripting, game map design, and website development. We focus on crafting immersive and engaging experiences for games and the web—tailored to meet the needs of our clients and community.
+**OTG Modding** is a multi-game development studio focused on creating high-quality mods, scripts, and custom maps for a wide range of games.
+
+We build immersive systems, performance-optimized scripts, and detailed environments that elevate gameplay experiences for communities and server owners.
 
 Our mission is simple:  
-🎯 Deliver high-quality, customizable solutions that empower developers, game server owners, and businesses to bring their ideas to life.
+🎯 Create powerful, polished, and reliable content that enhances the games people love.
 
 ---
 
-## 🧩 What We Do
+## 🎮 What We Create
 
-- 🎮 **Game Development**  
-  Scripting, systems, and map design for immersive gameplay.
+- 🧠 **Advanced Scripts**  
+  Optimized, feature-rich systems designed for performance and scalability.
 
-- 🕸️ **Web Development**  
-  Modern, responsive, and user-friendly websites.
+- 🗺️ **Custom Maps & Environments**  
+  Immersive, detailed worlds built for realism and gameplay depth.
 
-- 🤝 **Open Collaboration**  
-  We work hand-in-hand with our community and clients on every project.
+- 🔧 **Game Mods**  
+  Unique gameplay enhancements tailored for communities and servers.
 
-- 🌍 **Community-Driven**  
-  Your feedback and ideas shape what we create. Join our community to contribute!
-
----
-
-## 📢 Join Us
-
-Want to follow our journey or get involved?
-
-- 🌐 Website: [codebyte.studio](https://codebyte.studio)
-- 💬 Discord: [Join our community](https://discord.gg/yEwUUnP5bK)
-- 🐙 GitHub: [cbytestudios](https://github.com/cbytestudios)
+- 🤝 **Community-Focused Development**  
+  Built with feedback, tested by players, refined for excellence.
 
 ---
 
+## 🌍 Supported Platforms
+
+We develop for multiple games and engines, expanding across communities and platforms as we grow.
+
+More projects coming soon.
+
+---
+
+## 📢 Join the OTG Community
+
+Stay updated, request custom work, or follow development progress:
+
+- 🌐 Website: [otgmodding.xyz](https://otgmodding.xyz)
+- 💬 Discord: [Join Our Community](https://discord.gg/yEwUUnP5bK)
+- 🐙 GitHub: [OTGModding](https://github.com/otgmodding)
+
+---
 
 <p align="center">
-  <em>© 2025 Codebyte Studios • Made with ❤️ by passionate devs</em>
+  <em>© 2026 OTG Modding • Built for gamers, by developers</em>
 </p>
