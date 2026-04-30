@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://codebyte.studio" target="_blank">🌐 Website</a> • 
-  <a href="https://discord.gg/YOUR_INVITE" target="_blank">💬 Discord</a> • 
+  <a href="https://discord.gg/nYFkceqNBc" target="_blank">💬 Discord</a> • 
   <a href="https://github.com/codebstudios" target="_blank">🐙 GitHub</a>
 </p>
 
@@ -42,7 +42,7 @@ Our mission is simple:
 Want to follow our journey or get involved?
 
 - 🌐 Website: [codebyte.studio](https://codebyte.studio)
-- 💬 Discord: [Join our community](https://discord.gg/yEwUUnP5bK)
+- 💬 Discord: [Join our community](https://discord.gg/nYFkceqNBc)
 - 🐙 GitHub: [cbytestudios](https://github.com/codebstudios)
 
 ---
